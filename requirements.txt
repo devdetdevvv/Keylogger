@@ -1,0 +1,6 @@
+keyboard
+smtplib
+requests
+Pillow
+psutil
+pywin32
