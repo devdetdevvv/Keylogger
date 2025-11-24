@@ -35,7 +35,8 @@ Setup (Local test environment only)
 
 Clone the repository:
 
-git clone https://github.com/Ghanendra3366/Keylogger
+git clone https://github.com/devdetdevvv/Keylogger
+
 cd keylogger
 
 
@@ -98,3 +99,4 @@ This repository is intended for assignment submission. Minor documentation fixes
 License
 
 This project is licensed under the MIT License. Use responsibly.
+
